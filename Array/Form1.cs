@@ -11,7 +11,6 @@ namespace Array
 		}
 		private void Form1_Load(object sender, EventArgs e)
 		{
-
 			string[] names = { "Rhobbie", "Jhirro", "Raine", "Jolo", "Prince", "Mark" };
 
 			listBox1.Items.Clear();
