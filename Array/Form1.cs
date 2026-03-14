@@ -28,7 +28,6 @@ namespace Array
 			else
 			{
 				label1.Text = "No - hello - ";
-
 			}
 			char[,] letters =
 			{
